@@ -1,4 +1,9 @@
 # SAE_126_Backgammon
 
 # Backgaemmon-Java
-# Backgaemmon-Java
+
+Deux interfaces : 
+
+  Terminal fonctionnel 
+
+  graphique pas finalisée
